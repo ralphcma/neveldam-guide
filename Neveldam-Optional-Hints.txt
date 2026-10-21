@@ -1,0 +1,75 @@
+Neveldam: Optional Hints
+
+Draft for review · 21 October 2026
+
+OPTIONAL HINTS — stop reading whenever you’ve had enough help. All the hints are visible in this text version. In the HTML version, you can open them one at a time.
+
+Sometimes you just need a nudge. Start with the first hint for the part of the case you’re working on, then open the next only if you need it. These hints suggest things to check; they won’t give you the answers to your case.
+
+Identifying the people
+
+Level 1
+One feature might fit several people. Keep the visitor’s clues separate from the victim’s, and make a list of everyone who still fits each set.
+
+Level 2
+As you get another observation, check it against the same list. You’re looking for someone who fits all the details, not a different person for each detail.
+
+Level 3
+If more than one person still fits, return to the notebook for that trail and follow another lead. You need an observation from a separate source; rereading the same one won’t narrow the list any further.
+
+Finding the room
+
+Level 1
+Where did you read the paper, and which place does it describe? Those aren’t necessarily the same location.
+
+Level 2
+Compare what the witnesses recorded with the furnishings you’ve examined. Does one room fit all those details together?
+
+Level 3
+The filing colours and administrative clock entries don’t identify the room. Go back to the independent observations, including any limits on what each witness could see.
+
+Making sense of the times
+
+Level 1
+Before you start calculating, note what happened at each time and which clock or record it came from.
+
+Level 2
+Is that entry an arrival, a departure or something else? And do the clocks agree? Check both before putting the times together.
+
+Level 3
+The survey gives one-way walking times. Does the account you’re testing need a journey out, a journey back, or both? One journey time may not cover the whole absence.
+
+Working out the method and weapon
+
+Level 1
+A doctor may tell you what could have caused the death without identifying the object used. Pay attention to what the reports rule out as well.
+
+Level 2
+When you have the specimen report, compare both its material signature and its recorded detail with the catalogue. Matching just one may leave several possibilities.
+
+Level 3
+Keep the two questions separate: how did the victim die, and which object fits the physical evidence? If you can’t read the specimen report yet, finish the steps needed to open it.
+
+Finding the right letter
+
+Level 1
+Several of the disputes could sound like motives. Start by working out which original letter the surviving fragment came from.
+
+Level 2
+Compare the fragment notes with the physical details of the original letters. Don’t rely only on what a letter demands.
+
+Level 3
+Use those details together to narrow down the original, then consider what its contents tell you. However threatening a letter sounds, it still needs to fit the fragment.
+
+Testing the disputed accounts
+
+Level 1
+Treat each account as someone’s explanation of what happened. Which details would have to be true for that explanation to work?
+
+Level 2
+Each account relies on the same alleged trick appearing in two named records. Check those specific details against the independent originals. Finding something similar elsewhere doesn’t prove this account.
+
+Level 3
+If an original contradicts either detail the explanation depends on, the explanation doesn’t hold up. Keep track of the comparisons and originals you’ve read, and return to the final counterfoil once you have enough evidence to check the account.
+
+Draft for review, based on the Neveldam update dated 17 October 2026. Your server may not have that update yet. This guide doesn’t include a solution or instructions for an automated solver.

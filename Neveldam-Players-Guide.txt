@@ -1,0 +1,260 @@
+Neveldam: A Player’s Field Guide
+
+A guide to the investigation, without giving away the answers.
+
+Draft for review · 21 October 2026
+
+Holmes has asked you to look into a death in Neveldam. The accounts don’t quite add up, and someone is trying to steer you in the wrong direction. Here’s some help getting started, following your leads and keeping track of the evidence.
+
+1. Your first five minutes
+
+IMPORTANT — Choose your difficulty before you go in
+If you don’t already have a case open, entering 221B starts one automatically. Choose your difficulty at The Baker Street Doorstep first. Once a case is open, its difficulty stays the same until you finish or close it.
+
+1. From Neveldam Shuttle Landing, go east to The Baker Street Doorstep.
+
+2. Pick a difficulty: DIFFICULTY ASSISTED, DIFFICULTY DETECTIVE or DIFFICULTY EXPERT. Detective is the default. If you’d like some extra help on your first visit, try Assisted.
+
+3. Type ENTER 221B and read Holmes’s introduction. Then use READ NOTEBOOK to see where to begin.
+
+4. Use LEADS NOTEBOOK for your first leads. From the Sitting Room, go east to The Consulting Table, then east again to The Identification Archive. READ CARDS lists the people in the case; EXAMINE <surname> opens a person’s dossier.
+
+5. Choose either the visitor’s or the victim’s trail. Visit the person named in your notebook and read the papers they direct you to. Check that notebook again whenever you need your next lead.
+
+Starting a new case: Detective
+    DIFFICULTY DETECTIVE
+    ENTER 221B
+    READ NOTEBOOK
+    LEADS NOTEBOOK
+
+Send one command at a time. In examples such as <surname> or <paper>, use the name shown in your case and leave out the angle brackets.
+
+If you’ve just closed a case in the Sitting Room, choose your next difficulty there and type BEGIN DOCKET. You don’t need to leave and re-enter.
+
+2. Choosing a difficulty
+
+Mode: Assisted
+What changes: Some of the paperwork has already been checked and countersigned for you. You can also use HINTS NOTEBOOK when you want help comparing the evidence.
+
+Mode: Detective
+What changes: The default. Follow the paper trails and collect independent witness observations to work out who the accounts describe.
+
+Mode: Expert
+What changes: More people share the same identifying features, so you may need extra observations to tell them apart. Witnesses follow their usual rounds.
+
+Check your current difficulty with DIFFICULTY NOTEBOOK. Meal prices, witness speed and the final verdict rules are the same in every mode. To change difficulty, finish the current case or close it and start another. Closing an unfinished case discards its findings.
+
+3. Finding the right notebook
+
+Think of READ NOTEBOOK as your contents page. Each section points you towards a different part of the case and explains the commands you’ll need. You don’t have to work through them in order; follow whichever lead you’re ready to tackle.
+
+What are you working on?: Identifying the people
+Where to start: LEADS NOTEBOOK, then PURSUIT NOTEBOOK for the visitor or IDENTITY NOTEBOOK for the victim.
+Review your findings: OBSERVATIONS NOTEBOOK
+
+What are you working on?: The meeting place
+Where to start: SETTINGS NOTEBOOK
+Review your findings: ROOMNOTES NOTEBOOK
+
+What are you working on?: How the victim died and what was used
+Where to start: CLINICAL NOTEBOOK and EVIDENCE NOTEBOOK
+Review your findings: READ CATALOGUE for the exhibits; MATERIAL NOTEBOOK and REFERRALS NOTEBOOK for the specimen’s paper trail.
+
+What are you working on?: The motive
+Where to start: PAPERS NOTEBOOK; LETTERS NOTEBOOK tells you where the original letters are kept.
+Review your findings: PAPERNOTES NOTEBOOK
+
+What are you working on?: How someone tried to mislead you
+Where to start: INQUIRIES NOTEBOOK; RECORDS NOTEBOOK tells you where to find the originals.
+Review your findings: FINDINGS NOTEBOOK for comparisons; RECORDNOTES NOTEBOOK for originals.
+
+What are you working on?: Times and journeys
+Where to start: TIMING NOTEBOOK and ROUTES NOTEBOOK
+Review your findings: Go back to the records and check where your current trail points next.
+
+What are you working on?: Getting somewhere or finding someone
+Where to start: TRAVEL NOTEBOOK, DIRECTORY NOTEBOOK, WITNESSES NOTEBOOK
+Review your findings: Check the offices and meeting places named in your case.
+
+What are you working on?: Finishing the case or starting over
+Where to start: ANSWERS NOTEBOOK or RESTART NOTEBOOK
+Review your findings: Check what each command does before you finish or close the case.
+
+The HTML version includes a notebook menu preview, with no case answers shown.
+
+What the colours mean
+The colours draw your attention to names and useful details. They don’t tell you which account is true. Read the whole passage, including anything the witness couldn’t see or the record leaves uncertain.
+
+4. Following the evidence
+
+As you investigate, ask yourself: what am I being told, what does the original record actually say, and is there another source that backs it up—or contradicts it? A convincing story still needs checking.
+
+People
+- Start with the dossiers at The Identification Archive. Several people may share a feature, so look for someone who fits all the details you’ve gathered.
+
+- Keep track of which person you’re investigating. PURSUIT NOTEBOOK follows the visitor; IDENTITY NOTEBOOK follows the victim.
+
+- FOLLOW <surname> shows someone your reference; it doesn’t move you to their location. Go to the office they name, read the original with READ <paper>, then check your notebook for the next step.
+
+- OBSERVATIONS NOTEBOOK lets you reread the signed observations you’ve collected. An empty notebook just means you haven’t collected any yet.
+
+Place
+- Follow the leads in SETTINGS NOTEBOOK and compare the descriptions the witnesses left in their separate records.
+
+- When you visit a possible room, use EXAMINE FURNISHINGS to record how it’s arranged. ROOMNOTES NOTEBOOK lets you look back over the observations you’ve received.
+
+- Remember that a paper can describe somewhere else. The office holding it isn’t necessarily where the meeting happened.
+
+Death and weapon
+- CLINICAL NOTEBOOK lists seven doctors’ reports and tells you where each is kept. Go to the named office and use EXAMINE <surname>. These are medical reports, not the personal dossiers you read at The Identification Archive.
+
+- At the comparison laboratory, EXAMINE EXHIBITS lists the drawers. Examine each one using the name shown, then use READ CATALOGUE whenever you want to look back over the exhibits.
+
+- Before you can read the sealed specimen report, you’ll need all seven medical reports, all 24 exhibit examinations, the room observations and the specimen’s custody trail. MATERIAL NOTEBOOK, DIRECTORY NOTEBOOK and REFERRALS NOTEBOOK will help you follow the paperwork.
+
+- Once that’s done, return to the laboratory and type EXAMINE SPECIMEN. Compare its material signature and recorded detail with the catalogue. The method of death and the particular object used are two separate answers.
+
+Motive
+- Start with PAPERS NOTEBOOK. Use PAPERS <surname> to show a reference to the person holding it, then READ <copy-name> at the desk they send you to.
+
+- LETTERS NOTEBOOK tells you where the original letters are kept. Examine them using their displayed names. PAPERNOTES NOTEBOOK lets you reread what you’ve learned about the torn fragment.
+
+- Look at the physical details of the paper as well as what the letter says. A dispute in the files isn’t necessarily the motive for this death.
+
+Deception
+- These accounts offer different explanations of how someone misled the investigation. You’ll need to test them. INQUIRIES NOTEBOOK explains which details each explanation relies on.
+
+- Use COMPARE <surname> to ask the named person to check your references. Then use READ Signed Enclosure at the office they name to read the signed comparison.
+
+- RECORDS NOTEBOOK lists the original records and where to find them. Examine each by its wrapper’s displayed name. Look back at your comparisons with FINDINGS NOTEBOOK, and your examined originals with RECORDNOTES NOTEBOOK.
+
+- After examining the originals and gathering enough comparisons, go to The Casebook Gallery and use COMPARE COUNTERFOIL for the final signed comparison. You don’t have to read every reference to get there.
+
+Do you have to read everything?
+Not always. You may identify a person or rule out an account before following every available lead. The specimen report does have a checklist, though: you’ll need the medical reports, exhibits, room observations and custody trail described above.
+
+5. Getting around and meeting witnesses
+
+TRAVEL NOTEBOOK explains the carriage routes. To use one, go to the departure office shown below; the command won’t work from just anywhere.
+
+Departure office: The Carriage Office – Entrance Hall
+Command: VISIT CITYGATE
+Arrival: The Lodging House Approach
+
+Departure office: The Route and Departure Office
+Command: VISIT RIVERGATE
+Arrival: The Wharf Landing
+
+Departure office: The Carriage Office – Inner Passage
+Command: VISIT ESTATEGATE
+Arrival: The Alderwick Gatehouse
+
+Departure office: The Carriage Office – Booking Room
+Command: VISIT MOORGATE
+Arrival: The Blackthorn Arrival Shelter
+
+To come back, use RETURN CARRIAGE at the district’s arrival office. You can investigate all four districts, regardless of the filing tabs on your papers.
+
+Witnesses move around. Check WITNESSES NOTEBOOK for their rounds and meeting places. At the tavern listed for that witness, use ARRANGE <surname> to leave a message, then WAIT <surname> until they arrive. Use FOLLOW <surname> to discuss your reference once they’re there. TALK <surname> starts an ordinary conversation; it doesn’t present the reference.
+
+You can log out and come back without losing the case. Its records stay in the same places, even if you leave 221B. When you return, check your notebooks to pick up where you left off—there’s no need to reset. Keep an eye on your stamina, and leave yourself enough money for meals.
+
+6. Keeping useful notes
+
+You don’t need to copy every description. A few short notes can make it much easier to see what you know and what you still need to check. For each useful observation, jot down:
+
+Where it came from: The witness or record, and where you found it
+What it tells you: The detail you can actually point to
+What it leaves open: Anything uncertain, missing or outside the source’s knowledge
+What to check next: Another source that could confirm or challenge it
+
+Keep separate notes for the visitor, victim, place, method, weapon, motive and deception. With times, note what happened and which clock or record the time came from. It’s fine to leave a question unanswered for now. Mark guesses as guesses so they don’t get mixed in with the facts.
+
+7. Present your case only when you are ready
+
+IMPORTANT — Finish investigating before you type PRESENT CASE
+Type PRESENT CASE at The Consulting Table when you’re ready to enter Holmes’s Private Study. Once inside, you can’t go back out for more evidence. Check ANSWERS NOTEBOOK and finish your investigation before going in.
+
+In the study, you’ll enter eight conclusions in the ledger. The commands below show the format; fill them in using the names and terms from your own case.
+
+Conclusion: The murderer
+Entry command: SUSPECT <surname>
+
+Conclusion: The victim
+Entry command: VICTIM <surname>
+
+Conclusion: The method of death
+Entry command: METHOD <term>
+
+Conclusion: The place
+Entry command: SCENE <place-key>
+
+Conclusion: The motive
+Entry command: MOTIVE <term>
+
+Conclusion: The deception
+Entry command: THEORY <term>
+
+Conclusion: The supporting record (corroborating evidence)
+Entry command: EVIDENCE <record-key>
+
+Conclusion: The particular weapon or object
+Entry command: WEAPON <catalogue-key>
+
+The evidence entry is for the record or wrapper you examined, not the weapon or a type of material. ANSWERS NOTEBOOK explains how to enter it.
+
+Check your entries with READ LEDGER and REVIEW LEDGER. An entry being accepted doesn’t mean the answer is correct. To change one, type its command again with your new answer.
+
+IMPORTANT — SUBMIT LEDGER ends the case
+Check all eight entries before submitting. SUBMIT LEDGER ends the case and sends you back to the doorstep, even if your answers are wrong or incomplete. If you want a different difficulty next time, choose it before going back into 221B.
+
+8. Closing a case and starting another
+
+If you want to abandon the current case, go to 221B – The Sitting Room. RESTART NOTEBOOK explains the process in-game. To close the case, send these two commands separately:
+
+Close your current case
+    RESET DOCKET
+    CONFIRM DOCKET
+
+IMPORTANT — You’ll lose this case’s findings when you confirm
+RESET DOCKET asks whether you want to close the case. CONFIRM DOCKET closes it and discards its findings. If you change your mind, use CANCEL DOCKET instead. Closing a case won’t start a new one for you.
+
+To start again on Assisted
+    DIFFICULTY ASSISTED
+    BEGIN DOCKET
+
+You can replace the Assisted line with DIFFICULTY DETECTIVE or DIFFICULTY EXPERT. Closing a case doesn’t remove completion records or rewards you’ve already earned, but it does discard that case’s evidence and findings. If you’re only taking a break or reconnecting, leave it open.
+
+9. If you’re stuck
+
+What’s happening?: You can’t change difficulty
+What to try: Your case is already open. Finish it, or follow the reset instructions above to start over. Closing it will discard its findings.
+
+What’s happening?: Your identification observations are empty
+What to try: Read PURSUIT NOTEBOOK or IDENTITY NOTEBOOK, follow a reference and read the original at the office it names.
+
+What’s happening?: You’re not getting a new lead
+What to try: Check your notebook, the person’s name, the paper’s exact name and where it’s kept. Showing someone a reference and reading the paper they send you to are two separate steps.
+
+What’s happening?: You can’t find a witness
+What to try: Look up their meeting place in WITNESSES NOTEBOOK, then arrange a meeting and wait at the right tavern. FOLLOW doesn’t move you there.
+
+What’s happening?: You can’t read the specimen report
+What to try: Check EVIDENCE NOTEBOOK: have you read all seven medical reports, examined all 24 exhibits, collected the room observations and finished the material custody trail?
+
+What’s happening?: A paper isn’t where you remember it
+What to try: Check the notebook for this case. Papers can be assigned to different offices in a new case, so an old location list—or another player’s—may send you to the wrong place.
+
+What’s happening?: You’re ready to enter the study, except for one question
+What to try: Answer it before using PRESENT CASE. You won’t be able to go back out for more evidence, and SUBMIT LEDGER will end the case.
+
+If you’d like a nudge, try the separate Optional Hints guide. The hints get more specific as you go, but won’t name the culprit or walk you through a solution. In Assisted mode, you can also ask for help with HINTS NOTEBOOK.
+
+Something not working?
+Email NeveldamPuzzle@gmail.com with your difficulty, the room you’re in, the command you typed and what happened. A short piece of your log is useful too. Please leave out passwords and other login details, and keep case solutions out of public channels.
+
+This draft follows the Neveldam update dated 17 October 2026. Your server may not have that update yet. If something reads differently in-game, check the notebooks there and report anything that seems wrong.
+
+Optional hints are in Neveldam-Optional-Hints.txt and Neveldam-Optional-Hints.html.
+
+Draft for review, based on the Neveldam update dated 17 October 2026. Your server may not have that update yet. This guide doesn’t include a solution or instructions for an automated solver.
